@@ -123,3 +123,8 @@ skills/
 - [ ] 素材脚本生成 Skill
 - [ ] 竞品素材对比分析 Skill
 - [ ] 多市场投放策略 Skill
+---
+## 推荐小白使用一句话成功安装
+把这句话发给 Agent：
+帮我安装游戏广告素材分析 skill：https://raw.githubusercontent.com/zhangyifan242124-lab/ads/main/docs/install.md
+你的agent就会自己给你装好的
