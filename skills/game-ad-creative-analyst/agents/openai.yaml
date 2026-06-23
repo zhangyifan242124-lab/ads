@@ -1,0 +1,4 @@
+interface:
+  display_name: "素材优化师"
+  short_description: "面向优化师的游戏投放素材分析与迭代助手"
+  default_prompt: "使用 $game-ad-creative-analyst 分析一条游戏广告素材，结合平台和投放数据判断表现原因，并给出优化动作。"
