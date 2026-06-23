@@ -1,4 +1,4 @@
-# Codex Skills
+# # Codex Skills · 游戏买量广告
 
 存放可复用的 Codex Skills，目前专注于游戏买量广告方向。
 
