@@ -5,7 +5,9 @@
 ---
 ## 推荐小白使用一句话成功安装
 把这句话发给 Agent：
+
 帮我安装游戏广告素材分析 skill：https://raw.githubusercontent.com/zhangyifan242124-lab/ads/main/docs/install.md
+
 你的agent就会自己给你装好的
 
 ## 🎯 game-ad-creative-analyst
